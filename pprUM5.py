@@ -9,5 +9,5 @@ while i <= 33:
     s2 *= i
     i += 3
 
-print(f"S1 = {s1}")
-print(f"S2 = {s2}")
+print("S1 =", s1)
+print("S2 =", s2)
